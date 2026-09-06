@@ -49,3 +49,4 @@ example
 .vscode
 
 .env.local
+.env
